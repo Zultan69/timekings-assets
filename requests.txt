@@ -2,3 +2,25 @@
 catalog models
 catalog textures
 # fetch run 2
+polyhaven machete 1k
+polyhaven wooden_axe_02 1k
+polyhaven stone_fire_pit 1k
+polyhaven fern_02 1k
+polyhaven anthurium_botany_01 1k
+polyhaven calathea_orbifolia_01 1k
+polyhaven shrub_03 1k
+polyhaven dry_branches_medium_01 1k
+polyhaven rock_face_01 2k
+polyhaven rock_face_02 2k
+polyhaven rock_moss_set_01 1k
+polyhaven rock_moss_set_02 1k
+polyhaven tree_stump_01 1k
+polyhaven dead_tree_trunk 1k
+polyhaven boulder_01 1k
+polyhaven large_castle_door 1k
+polyhaven stacked_stone_wall 1k
+polyhaven mossy_stone_wall 1k
+polyhaven wood_trunk_wall 1k
+polyhaven rough_wood 1k
+polyhaven weathered_planks 1k
+polyhaven thatch_roof_angled 1k

@@ -27,22 +27,26 @@ def save(path, data):
 
 
 def polyhaven(asset, res="2k"):
+    info = json.loads(get(f"https://api.polyhaven.com/info/{asset}"))
     files = json.loads(get(f"https://api.polyhaven.com/files/{asset}"))
     out = f"polyhaven/{asset}"
-    if "gltf" in files:  # a model (or a texture set with a glTF preview: the model form is taken when it has one)
+    if info.get("type") == 2:  # a model: its glTF with the textures it names
         pick = files["gltf"].get(res) or files["gltf"][sorted(files["gltf"])[0]]
         g = pick["gltf"]
         save(f"{out}/{os.path.basename(g['url'])}", get(g["url"]))
         for rel, inc in g.get("include", {}).items():
             save(f"{out}/{rel}", get(inc["url"]))
-    for kind in ("Diffuse", "nor_gl", "Rough", "AO", "arm", "Displacement"):  # a texture set's maps, as PNG or JPG
-        if kind in files and "gltf" not in files:
+    else:  # a texture set: its colour, normal (OpenGL) and roughness maps, as JPG where there is one
+        for kind in ("Diffuse", "nor_gl", "Rough"):
+            if kind not in files:
+                continue
             maps = files[kind].get(res) or files[kind][sorted(files[kind])[0]]
-            m = maps.get("png") or maps.get("jpg")
+            m = maps.get("jpg") or maps.get("png")
             save(f"{out}/{asset}_{kind}_{res}.{m['url'].rsplit('.', 1)[-1]}", get(m["url"]))
-    info = json.loads(get(f"https://api.polyhaven.com/info/{asset}"))
     save(f"{out}/info.json", json.dumps({"id": asset, "name": info.get("name"), "authors": info.get("authors"),
-                                         "licence": "CC0 (polyhaven.com/license)", "res": res}, indent=1).encode())
+                                         "licence": "CC0 (polyhaven.com/license)", "res": res,
+                                         "polycount": info.get("polycount"), "dimensions": info.get("dimensions")},
+                                        indent=1).encode())
 
 
 def main():
