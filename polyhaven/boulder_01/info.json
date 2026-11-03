@@ -1,0 +1,15 @@
+{
+ "id": "boulder_01",
+ "name": "Boulder 01",
+ "authors": {
+  "Rico Cilliers": "All"
+ },
+ "licence": "CC0 (polyhaven.com/license)",
+ "res": "1k",
+ "polycount": 123976,
+ "dimensions": [
+  1272.6830840110779,
+  1830.7338953018188,
+  1003.8918256759644
+ ]
+}

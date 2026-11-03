@@ -1,0 +1,15 @@
+{
+ "id": "rock_face_01",
+ "name": "Rock Face 01",
+ "authors": {
+  "Dario Barresi": "All"
+ },
+ "licence": "CC0 (polyhaven.com/license)",
+ "res": "2k",
+ "polycount": 20174,
+ "dimensions": [
+  7108.232021331787,
+  5624.304533004761,
+  4980.4371148347855
+ ]
+}

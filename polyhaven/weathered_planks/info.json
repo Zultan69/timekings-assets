@@ -1,0 +1,15 @@
+{
+ "id": "weathered_planks",
+ "name": "Weathered Planks",
+ "authors": {
+  "Dario Barresi": "Processing",
+  "Dimitrios Savva": "Photography"
+ },
+ "licence": "CC0 (polyhaven.com/license)",
+ "res": "1k",
+ "polycount": null,
+ "dimensions": [
+  2000,
+  2000
+ ]
+}

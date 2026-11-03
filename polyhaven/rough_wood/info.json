@@ -1,0 +1,14 @@
+{
+ "id": "rough_wood",
+ "name": "Rough Wood",
+ "authors": {
+  "Rob Tuytel": "All"
+ },
+ "licence": "CC0 (polyhaven.com/license)",
+ "res": "1k",
+ "polycount": null,
+ "dimensions": [
+  500,
+  500
+ ]
+}

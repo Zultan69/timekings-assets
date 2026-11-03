@@ -1,0 +1,15 @@
+{
+ "id": "machete",
+ "name": "Machete",
+ "authors": {
+  "Ulan Cabanilla": "All"
+ },
+ "licence": "CC0 (polyhaven.com/license)",
+ "res": "1k",
+ "polycount": 3032,
+ "dimensions": [
+  44.37695816159248,
+  61.11501157283783,
+  754.8029869794846
+ ]
+}

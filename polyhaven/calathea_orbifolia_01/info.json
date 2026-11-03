@@ -1,0 +1,16 @@
+{
+ "id": "calathea_orbifolia_01",
+ "name": "Calathea Orbifolia 01",
+ "authors": {
+  "Rob Tuytel": "scanning",
+  "Rico Cilliers": "modeling"
+ },
+ "licence": "CC0 (polyhaven.com/license)",
+ "res": "1k",
+ "polycount": 16688,
+ "dimensions": [
+  2491.507411003113,
+  1193.592220544815,
+  424.2942640557885
+ ]
+}

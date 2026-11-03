@@ -1,0 +1,14 @@
+{
+ "id": "stacked_stone_wall",
+ "name": "Stacked Stone Wall",
+ "authors": {
+  "Dimitrios Savva": "All"
+ },
+ "licence": "CC0 (polyhaven.com/license)",
+ "res": "1k",
+ "polycount": null,
+ "dimensions": [
+  2000,
+  2000
+ ]
+}

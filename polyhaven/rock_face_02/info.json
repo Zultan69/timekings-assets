@@ -1,0 +1,16 @@
+{
+ "id": "rock_face_02",
+ "name": "Rock Face 02",
+ "authors": {
+  "Dario Barresi": "All",
+  "Rico Cilliers": "processing"
+ },
+ "licence": "CC0 (polyhaven.com/license)",
+ "res": "2k",
+ "polycount": 29566,
+ "dimensions": [
+  4870.411515235901,
+  3472.859501838684,
+  4734.235167503357
+ ]
+}

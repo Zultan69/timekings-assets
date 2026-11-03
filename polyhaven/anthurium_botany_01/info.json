@@ -1,0 +1,16 @@
+{
+ "id": "anthurium_botany_01",
+ "name": "Anthurium Botany 01",
+ "authors": {
+  "Rob Tuytel": "scanning",
+  "Rico Cilliers": "modeling"
+ },
+ "licence": "CC0 (polyhaven.com/license)",
+ "res": "1k",
+ "polycount": 4134,
+ "dimensions": [
+  2806.4264059066772,
+  1800.9886145591736,
+  506.7181019112468
+ ]
+}

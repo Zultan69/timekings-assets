@@ -1,0 +1,15 @@
+{
+ "id": "shrub_03",
+ "name": "Shrub 03",
+ "authors": {
+  "Rico Cilliers": "All"
+ },
+ "licence": "CC0 (polyhaven.com/license)",
+ "res": "1k",
+ "polycount": 16955,
+ "dimensions": [
+  1366.9319450855255,
+  151.20302885770798,
+  402.78380597010255
+ ]
+}

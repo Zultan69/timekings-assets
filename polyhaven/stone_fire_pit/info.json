@@ -1,0 +1,15 @@
+{
+ "id": "stone_fire_pit",
+ "name": "Stone Fire Pit",
+ "authors": {
+  "Sebastian Platen": "All"
+ },
+ "licence": "CC0 (polyhaven.com/license)",
+ "res": "1k",
+ "polycount": 3887,
+ "dimensions": [
+  1448.4962224960327,
+  1433.234453201294,
+  388.32607865333557
+ ]
+}

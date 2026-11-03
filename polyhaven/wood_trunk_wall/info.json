@@ -1,0 +1,14 @@
+{
+ "id": "wood_trunk_wall",
+ "name": "Wood Trunk Wall",
+ "authors": {
+  "Amal Kumar": "All"
+ },
+ "licence": "CC0 (polyhaven.com/license)",
+ "res": "1k",
+ "polycount": null,
+ "dimensions": [
+  1250,
+  1250
+ ]
+}
