@@ -1,0 +1,3 @@
+# One request a line (see tools/fetch.py). Pushing this file starts the fetch.
+catalog models
+catalog textures
