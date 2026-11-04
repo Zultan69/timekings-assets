@@ -32,3 +32,11 @@ polyhaven forest_floor 1k
 polyhaven mossy_rock 1k
 polyhaven rock_pitted_mossy 1k
 polyhaven aerial_grass_rock 1k
+polyhaven ceramic_pot 1k
+polyhaven ceramic_vase_02 1k
+polyhaven ceramic_vase_04 1k
+polyhaven wooden_bowl_02 1k
+polyhaven carved_wooden_plate 1k
+polyhaven planter_pot_clay 1k
+polyhaven root_cluster_01 1k
+polyhaven sweet_potato 1k
