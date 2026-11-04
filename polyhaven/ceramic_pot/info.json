@@ -1,0 +1,15 @@
+{
+ "id": "ceramic_pot",
+ "name": "Ceramic Pot",
+ "authors": {
+  "Aron \u0141yczek": "All"
+ },
+ "licence": "CC0 (polyhaven.com/license)",
+ "res": "1k",
+ "polycount": 3592,
+ "dimensions": [
+  656.2502980232239,
+  501.7523765563965,
+  371.66545377112925
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "id": "planter_pot_clay",
+ "name": "Planter Pot Clay",
+ "authors": {
+  "Amal Kumar": "All"
+ },
+ "licence": "CC0 (polyhaven.com/license)",
+ "res": "1k",
+ "polycount": 3080,
+ "dimensions": [
+  265.9967243671417,
+  263.4630501270294,
+  221.87034250237048
+ ]
+}

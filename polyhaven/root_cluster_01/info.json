@@ -1,0 +1,16 @@
+{
+ "id": "root_cluster_01",
+ "name": "Root Cluster 01",
+ "authors": {
+  "Jenelle van Heerden": "Photography",
+  "Rico Cilliers": "photography, processing"
+ },
+ "licence": "CC0 (polyhaven.com/license)",
+ "res": "1k",
+ "polycount": 225261,
+ "dimensions": [
+  4122.708559036255,
+  2682.776689529419,
+  1509.2801377177238
+ ]
+}

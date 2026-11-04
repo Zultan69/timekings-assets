@@ -1,0 +1,15 @@
+{
+ "id": "carved_wooden_plate",
+ "name": "Carved Wooden Plate",
+ "authors": {
+  "Jan Martens": "All"
+ },
+ "licence": "CC0 (polyhaven.com/license)",
+ "res": "1k",
+ "polycount": 2112,
+ "dimensions": [
+  271.8309164047241,
+  268.7795162200928,
+  38.11051766388118
+ ]
+}

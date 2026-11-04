@@ -1,0 +1,15 @@
+{
+ "id": "sweet_potato",
+ "name": "Sweet Potato",
+ "authors": {
+  "Jan Martens": "All"
+ },
+ "licence": "CC0 (polyhaven.com/license)",
+ "res": "1k",
+ "polycount": 2042,
+ "dimensions": [
+  58.12427029013634,
+  60.989297926425934,
+  100.46296194195747
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "id": "rock_pitted_mossy",
+ "name": "Rock Pitted Mossy",
+ "authors": {
+  "Dimitrios Savva": "Photography",
+  "Rico Cilliers": "Processing"
+ },
+ "licence": "CC0 (polyhaven.com/license)",
+ "res": "1k",
+ "polycount": null,
+ "dimensions": [
+  1000,
+  1000
+ ]
+}
