@@ -1,0 +1,14 @@
+{
+ "id": "grass_ground",
+ "name": "Grass Ground",
+ "authors": {
+  "Charlotte Baglioni": "All"
+ },
+ "licence": "CC0 (polyhaven.com/license)",
+ "res": "1k",
+ "polycount": null,
+ "dimensions": [
+  2509.999990463257,
+  2509.999990463257
+ ]
+}

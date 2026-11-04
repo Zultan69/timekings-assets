@@ -1,0 +1,14 @@
+{
+ "id": "mossy_rock",
+ "name": "Mossy Rock",
+ "authors": {
+  "Rob Tuytel": "All"
+ },
+ "licence": "CC0 (polyhaven.com/license)",
+ "res": "1k",
+ "polycount": null,
+ "dimensions": [
+  3000,
+  3000
+ ]
+}

@@ -1,0 +1,14 @@
+{
+ "id": "aerial_grass_rock",
+ "name": "Aerial Grass Rock",
+ "authors": {
+  "Rob Tuytel": "All"
+ },
+ "licence": "CC0 (polyhaven.com/license)",
+ "res": "1k",
+ "polycount": null,
+ "dimensions": [
+  15000,
+  15000
+ ]
+}
