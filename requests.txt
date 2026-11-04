@@ -24,3 +24,11 @@ polyhaven wood_trunk_wall 1k
 polyhaven rough_wood 1k
 polyhaven weathered_planks 1k
 polyhaven thatch_roof_angled 1k
+polyhaven leafy_grass 1k
+polyhaven grass_ground 1k
+polyhaven forest_leaves_03 1k
+polyhaven brown_mud_leaves_01 1k
+polyhaven forest_floor 1k
+polyhaven mossy_rock 1k
+polyhaven rock_pitted_mossy 1k
+polyhaven aerial_grass_rock 1k
